@@ -68,6 +68,17 @@ To go back to a single window, drag the tab back to the original window on at a 
 
 [Watch the video](https://youtu.be/JERYTJwq7u8?si=jxky5--vEZGvywpI)
 
-## Saving windows layout
+### Saving windows layout
 
 [Watch the video](https://youtu.be/HTwqjthUppc?si=uTU4D8dj3SyVYIok)
+
+## The toolbox
+
+Generally, the toolbox is used to drag and drop controls onto a form. But it can also be used to store code snippets as shown below.
+
+Example, you have a line of code that you use frequently. You can drag and drop the code into the toolbox. To use the code snippet, drag and drop the code snippet from the toolbox to the code editor.
+
+> **Note**
+> Karen's is shown below with snippets for markdown files, project files and database code.
+
+![](assets/figure6.png)
