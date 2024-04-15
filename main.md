@@ -6,6 +6,7 @@ There are many keyboard shortcuts available in Visual Studio. Here are some of t
 |:------------- |:-------------|:-------------|
 | Search    | <kbd>ctrl</kbd> + <kbd>T</kbd> | Provides search for files, types and members |
 | Quick replace    | <kbd>ctrl</kbd> + <kbd>H</kbd> | Provides search and replace functionality in current file |
+| | | See also [Search in Visual Studio 2022](https://youtu.be/NntM_ahUE54?si=GSyrNn0dcCZZLzji)
 | Comment    | <kbd>ctrl</kbd> + <kbd>K</kbd>, <kbd>C</kbd> | Comments the selected code |
 | Uncomment    | <kbd>ctrl</kbd> + <kbd>K</kbd>, <kbd>U</kbd> | Uncomments the selected code |
 | Duplicate line    | <kbd>ctrl</kbd> + <kbd>D</kbd> | Duplicates the current line |
@@ -14,7 +15,20 @@ There are many keyboard shortcuts available in Visual Studio. Here are some of t
 | Solution Explorer    | <kbd>ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd> | Opens the solution explorer |
 
 
-## Figure 1: Keyboard schema in Visual Studio
+### Keyboard shortcuts by menu
+
+Sometimes the best method to learn keyboard shortcuts is by menu. The common shortcuts are shown in the menu. For example, the following shows the `Edit` menu.
+
+![](assets/figure5.png)
+
+> **Note**
+> Some shortcuts are in submenus. For example, the `Edit` menu has a submenu called `Advanced`. The `Advanced` submenu has the `Format Document` and `Format Selection` shortcuts.
+
+
+[15 Tips to Boost Your Productivity in Visual Studio](https://youtu.be/o4kkRqzHDvw?si=IPej1cb1N5RgN91f)
+
+
+### Figure 1: Keyboard schema in Visual Studio
 
 For developer new to Visual Studio best to use the default keyboard schema. 
 
@@ -23,6 +37,12 @@ To change the keyboard schema, go to `Tools` -> `Options` -> `Environment` -> `K
 ![](assets/figure1.png)
 
 ## Windows
+
+### Arranging windows
+
+[Watch the video]([Customize tool windows and documents](https://youtu.be/JERYTJwq7u8?si=vPMTuaOaCSm9cEn8))
+
+### Splitting windows
 
 Visual Studio allows you to edit multiple files at the same time. But you can only see one file at a time. The following shows how to view multiple files at the same time by splitting the window horizontally or vertically.
 
@@ -44,3 +64,10 @@ Right click on a tab and select `New Vertical Tab Group`.
 
 To go back to a single window, drag the tab back to the original window on at a time.
 
+### See the following video for a demonstration
+
+[Watch the video](https://youtu.be/JERYTJwq7u8?si=jxky5--vEZGvywpI)
+
+## Saving windows layout
+
+[Watch the video](https://youtu.be/HTwqjthUppc?si=uTU4D8dj3SyVYIok)
