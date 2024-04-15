@@ -1,0 +1,1 @@
+Provides a readme file for the Visual Studio guide for keyboard shortcuts and window splitting.
