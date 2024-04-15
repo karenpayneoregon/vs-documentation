@@ -23,9 +23,11 @@ Sometimes the best method to learn keyboard shortcuts is by menu. The common sho
 
 > **Note**
 > Some shortcuts are in submenus. For example, the `Edit` menu has a submenu called `Advanced`. The `Advanced` submenu has the `Format Document` and `Format Selection` shortcuts.
+>
+:bulb: [Editor shortcuts in Visual Studio]([https://](https://youtu.be/Bh1pI1llV4Q?si=oL38Ydnshnh1tp0H))
 
 
-[15 Tips to Boost Your Productivity in Visual Studio](https://youtu.be/o4kkRqzHDvw?si=IPej1cb1N5RgN91f)
+:bulb: [15 Tips to Boost Your Productivity in Visual Studio](https://youtu.be/o4kkRqzHDvw?si=IPej1cb1N5RgN91f)
 
 
 ### Figure 1: Keyboard schema in Visual Studio
@@ -40,7 +42,7 @@ To change the keyboard schema, go to `Tools` -> `Options` -> `Environment` -> `K
 
 ### Arranging windows
 
-[Watch the video]([Customize tool windows and documents](https://youtu.be/JERYTJwq7u8?si=vPMTuaOaCSm9cEn8))
+:bulb: [Watch the video]([Customize tool windows and documents](https://youtu.be/JERYTJwq7u8?si=vPMTuaOaCSm9cEn8))
 
 ### Splitting windows
 
@@ -66,11 +68,17 @@ To go back to a single window, drag the tab back to the original window on at a 
 
 ### See the following video for a demonstration
 
-[Watch the video](https://youtu.be/JERYTJwq7u8?si=jxky5--vEZGvywpI)
+:bulb: [Watch the video](https://youtu.be/JERYTJwq7u8?si=jxky5--vEZGvywpI)
 
 ### Saving windows layout
 
-[Watch the video](https://youtu.be/HTwqjthUppc?si=uTU4D8dj3SyVYIok)
+:bulb: [Watch the video](https://youtu.be/HTwqjthUppc?si=uTU4D8dj3SyVYIok)
+
+## Document management in Visual Studio 2022
+
+:bulb: [Watch the video](https://youtu.be/uhmD11WPOf8?si=k5Bp7kN1lmhpvdk6)
+
+
 
 ## The toolbox
 
@@ -82,3 +90,11 @@ Example, you have a line of code that you use frequently. You can drag and drop 
 > Karen's is shown below with snippets for markdown files, project files and database code.
 
 ![](assets/figure6.png)
+
+
+---
+
+### Other
+
+- [Case preserving find and replace in Visual Studio](https://youtu.be/iaoitDrBkBw?si=revVhY9Wo95Jsjgr)
+- [Cool features in Visual Studio 2022](https://www.youtube.com/watch?v=NBfNnyPQTKs)
