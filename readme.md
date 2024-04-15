@@ -1,1 +1,1 @@
-Provides a readme file for the Visual Studio guide for keyboard shortcuts and window splitting.
+Provides a [readme file](main.md) for the Visual Studio guide for keyboard shortcuts and window splitting.
