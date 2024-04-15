@@ -92,6 +92,21 @@ Example, you have a line of code that you use frequently. You can drag and drop 
 ![](assets/figure6.png)
 
 
+## Microsoft online lessons
+
+![alt text](assets/learn.png)
+
+
+- [Choose the correct data type in your C# code](https://learn.microsoft.com/en-us/learn/modules/csharp-choose-correct-data-type/)
+- [Control variable scope and logic using code blocks in C#](https://learn.microsoft.com/en-us/training/modules/csharp-code-blocks/)
+- [Call methods from the .NET Class Library using C#](https://learn.microsoft.com/en-us/training/modules/csharp-call-methods/)
+- [Perform basic operations on numbers in C#](https://learn.microsoft.com/en-us/training/modules/csharp-basic-operations/)
+- [Perform basic string formatting in C#](https://learn.microsoft.com/en-us/training/modules/csharp-basic-formatting/)
+- [Iterate through a code block using for statement in C#](https://learn.microsoft.com/en-us/training/modules/csharp-for/)
+- [Add looping logic to your code using the do-while and while statements in C#](https://learn.microsoft.com/en-us/training/modules/csharp-do-while/)
+- [Branch the flow of code using the switch-case construct in C#](https://learn.microsoft.com/en-us/training/modules/csharp-switch-case/)
+- [Add decision logic to your code using `if`, `else`, and `else if` statements in C#](https://learn.microsoft.com/en-us/training/modules/csharp-if-elseif-else/)
+
 ---
 
 ### Other
