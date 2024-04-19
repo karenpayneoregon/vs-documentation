@@ -92,7 +92,7 @@ string statement3 =
     """;
 ```
 
-To try out the raw string literals, create a console project named DemoApp targetting .NET 7.0 and replace Program.cs with the following code.
+:bulb: To try out the raw string literals, create a console project named DemoApp targetting .NET 7.0 and replace Program.cs with the following code.
 
 ```csharp
 namespace DemoApp;
