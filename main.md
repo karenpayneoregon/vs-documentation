@@ -42,7 +42,7 @@ To change the keyboard schema, go to `Tools` -> `Options` -> `Environment` -> `K
 
 ### Arranging windows
 
-:bulb: [Watch the video]([Customize tool windows and documents](https://youtu.be/JERYTJwq7u8?si=vPMTuaOaCSm9cEn8))
+:bulb: [Customize tool windows and documents](https://youtu.be/JERYTJwq7u8?si=vPMTuaOaCSm9cEn8)
 
 ### Splitting windows
 
