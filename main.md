@@ -1,6 +1,6 @@
 ## VB.NET/C#
 
-See the following [document](vbNetCSharp.md) for some useful code in VB.NET and C#.
+See the following [document](visualBasic.md) for some useful code in VB.NET and C#.
 
 ## Visual Studio settings
 
