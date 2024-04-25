@@ -60,6 +60,8 @@ Public Class SqlStatements
 End Class
 ```
 
+Note in the code below, `=>` is used to define a property in C# but can in other cases be used to define a [lambda expression](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions).
+
 ```csharp
 internal class Program
 {
