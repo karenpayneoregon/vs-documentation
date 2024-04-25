@@ -21,6 +21,7 @@ There are many keyboard shortcuts available in Visual Studio. Here are some of t
 | Surround with    | <kbd>ctrl</kbd> + <kbd>K</kbd>, <kbd>S</kbd> | Surrounds the selected code with a snippet e.g. for, try/catch |
 | Show Clipboard History    | <kbd>ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd> | Shows the clipboard history |
 | Solution Explorer    | <kbd>ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd> | Opens the solution explorer |
+| Replace next occurrence    | <kbd>alt</kbd> + <kbd>shift</kbd>, <kbd>.</kbd> | Replaces the [next occurrence](https://youtu.be/BxXRux8bars) of the selected text |
 
 
 ### Keyboard shortcuts by menu
