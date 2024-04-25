@@ -1,3 +1,7 @@
+## VB.NET/C#
+
+See the following [document](vbNetCSharp.md) for some useful code in VB.NET and C#.
+
 ## Visual Studio settings
 
 See the following [document](visualStudioSettings.md) for some useful settings in Visual Studio.
