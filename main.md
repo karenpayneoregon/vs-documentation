@@ -1,3 +1,7 @@
+## Visual Studio settings
+
+See the following [document](visualStudioSettings.md)
+
 ## Keyboard Shortcuts
 
 There are many keyboard shortcuts available in Visual Studio. Here are some of the most useful ones and may differ depending on the keyboard schema selected as shown in figure 1 below.
