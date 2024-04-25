@@ -1,6 +1,6 @@
 ## Visual Studio settings
 
-See the following [document](visualStudioSettings.md)
+See the following [document](visualStudioSettings.md) for some useful settings in Visual Studio.
 
 ## Keyboard Shortcuts
 
