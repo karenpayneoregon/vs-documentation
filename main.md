@@ -26,7 +26,7 @@ There are many keyboard shortcuts available in Visual Studio. Here are some of t
 | Expand selection to containing block| <kbd>shift</kbd> + <kbd>alt</kbd> +  <kbd>+</kbd>|  | :small_orange_diamond: |
 
 
- :small_orange_diamond: For the last three shortcuts, see [Visual Studio unknown keyboard shortcuts](https://https://dev.to/karenpayneoregon/visual-studio-unknwn-keyboard-shortcuts-1g3e) by Karen Payne
+ :small_orange_diamond: For the last three shortcuts, see [Visual Studio unknown keyboard shortcuts](https://dev.to/karenpayneoregon/visual-studio-unknwn-keyboard-shortcuts-1g3e) by Karen Payne
 
 
 ### Keyboard shortcuts by menu
