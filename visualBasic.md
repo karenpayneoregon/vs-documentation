@@ -113,3 +113,7 @@ public class SqlStatements
         """;
 }
 ```
+
+## Predefined VB.NET Code samples
+
+The following Karen put together years ago and are still relevant today [visual-basic-getting-started](https://github.com/karenpayneoregon/visual-basic-getting-started) which if there are questions please ask.
