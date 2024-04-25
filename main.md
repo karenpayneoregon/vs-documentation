@@ -23,7 +23,7 @@ There are many keyboard shortcuts available in Visual Studio. Here are some of t
 | Solution Explorer    | <kbd>ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd> | Opens the solution explorer |
 | Replace next occurrence    | <kbd>alt</kbd> + <kbd>shift</kbd>, <kbd>.</kbd> | Replaces the [next occurrence](https://youtu.be/BxXRux8bars) of the selected text | :small_orange_diamond: |
 | Expand selection    | <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>+</kbd>| Expands the selection | :small_orange_diamond: |
-| Expand selection to containing block| <kbd>shift</kbd> + <kbd>alt</kbd> +  <kbd>+</kbd>|  | :small_orange_diamond: |
+| Expand selection to containing block| <kbd>shift</kbd> + <kbd>alt</kbd> +  <kbd>]</kbd>|  | :small_orange_diamond: |
 
 
  :small_orange_diamond: For the last three shortcuts, see [Visual Studio unknown keyboard shortcuts](https://dev.to/karenpayneoregon/visual-studio-unknwn-keyboard-shortcuts-1g3e) by Karen Payne
