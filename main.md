@@ -10,8 +10,8 @@ See the following [document](visualStudioSettings.md) for some useful settings i
 
 There are many keyboard shortcuts available in Visual Studio. Here are some of the most useful ones and may differ depending on the keyboard schema selected as shown in figure 1 below.
 
-| Description        |   Shortcut    |  Notes   |
-|:------------- |:-------------|:-------------|
+| Description        |   Shortcut    |  Notes   | Article |
+|:------------- |:-------------|:-------------|:-------------|
 | Search    | <kbd>ctrl</kbd> + <kbd>T</kbd> | Provides search for files, types and members |
 | Quick replace    | <kbd>ctrl</kbd> + <kbd>H</kbd> | Provides search and replace functionality in current file |
 | | | See also [Search in Visual Studio 2022](https://youtu.be/NntM_ahUE54?si=GSyrNn0dcCZZLzji)
@@ -21,7 +21,12 @@ There are many keyboard shortcuts available in Visual Studio. Here are some of t
 | Surround with    | <kbd>ctrl</kbd> + <kbd>K</kbd>, <kbd>S</kbd> | Surrounds the selected code with a snippet e.g. for, try/catch |
 | Show Clipboard History    | <kbd>ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd> | Shows the clipboard history |
 | Solution Explorer    | <kbd>ctrl</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd> | Opens the solution explorer |
-| Replace next occurrence    | <kbd>alt</kbd> + <kbd>shift</kbd>, <kbd>.</kbd> | Replaces the [next occurrence](https://youtu.be/BxXRux8bars) of the selected text |
+| Replace next occurrence    | <kbd>alt</kbd> + <kbd>shift</kbd>, <kbd>.</kbd> | Replaces the [next occurrence](https://youtu.be/BxXRux8bars) of the selected text | :small_orange_diamond: |
+| Expand selection    | <kbd>shift</kbd> + <kbd>alt</kbd> + <kbd>+</kbd>| Expands the selection | :small_orange_diamond: |
+| Expand selection to containing block| <kbd>shift</kbd> + <kbd>alt</kbd> +  <kbd>+</kbd>|  | :small_orange_diamond: |
+
+
+ :small_orange_diamond: | For the last three shortcuts, see [Visual Studio unknown keyboard shortcuts]([https://](https://dev.to/karenpayneoregon/visual-studio-unknwn-keyboard-shortcuts-1g3e)) by Karen Payne.
 
 
 ### Keyboard shortcuts by menu
